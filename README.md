@@ -133,9 +133,9 @@ Fun Fact: I love anime and can be a good choice for spending quality time
 
 <br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=rohitkush1510-afk&icon=5&color=FF69B4">
-</p>
+</p> -->
 
 <br>
 
