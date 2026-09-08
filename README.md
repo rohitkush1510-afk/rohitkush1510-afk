@@ -87,12 +87,12 @@ Fun Fact: I love anime and can be a good choice for spending quality time
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
 
-<h2>GitHub Analytics</h2>
+<!-- <h2>GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&border_radius=10" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkush1510-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&border_radius=10" width="48%">
-</p>
+</p> -->
 
 <h3>GitHub Streak</h3>
 <p align="center">
