@@ -37,7 +37,7 @@
 <td width="65%">
 <strong>Passionate Developer</strong> crafting digital experiences<br><br>
 Based in <strong>Gurugram, India</strong><br><br>
-<strong>[YOUR_DEGREE]</strong> at <strong>[YOUR_UNIVERSITY]</strong><br><br>
+<strong>B.Tech CSE AIML</strong> at <strong>KR Mangalam</strong><br><br>
 Working on <strong>Mern Stack</strong><br><br>
 Learning <strong>ML</strong><br><br>
 <!-- Email: <a href="mailto:[YOUR_EMAIL]">[Y</a><br><br> -->
