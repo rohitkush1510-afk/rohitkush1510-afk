@@ -1,5 +1,4 @@
-
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,0,4&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=rohitkush1510-afk&descAlignY=55&descSize=20">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,0,4&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=333&animation=fadeIn&fontAlignY=35&desc=rohitkush1510-afk&descAlignY=55&descSize=20">
@@ -87,31 +86,14 @@ Fun Fact: I love anime and can be a good choice for spending quality time
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
 
-<!-- <h2>GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&border_radius=10" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkush1510-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&border_radius=10" width="48%">
-</p> -->
 
 <h3>GitHub Streak</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitkush1510-afk&theme=radical&hide_border=true&background=0D1117&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=F8BBD0&dates=9E9E9E&border_radius=10" width="80%">
 </p>
 
-<!-- <h3>Contribution Graph</h3>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkush1510-afk&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&radius=10" width="100%">
-</a>
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-<h2>Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkush1510-afk/rohitkush1510-afk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkush1510-afk/rohitkush1510-afk/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/rohitkush1510-afk/rohitkush1510-afk/output/github-contribution-grid-snake.svg" width="100%">
 </picture> -->
@@ -120,31 +102,7 @@ Fun Fact: I love anime and can be a good choice for spending quality time
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
 
-<!-- <h2>Connect With Me</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="https://x.com/[YOUR_X_USERNAME]"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@[YOUR_TIKTOK]"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@[YOUR_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>
-</p>
-
-<br> -->
-
-<!-- <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rohitkush1510-afk&icon=5&color=FF69B4">
-</p> -->
-
-<br>
-
-<!-- <h3>Support My Work</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/rohitkush1510-afk"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/rohitkush1510-afk"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>&nbsp;&nbsp;
-  <a href="https://www.patreon.com/rohitkush1510-afk"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=EF93C4&color=FF69B4"></a>
-</p> -->
 
 <br>
 
@@ -166,4 +124,7 @@ Fun Fact: I love anime and can be a good choice for spending quality time
   <sub>Made with ❤️ by <strong>Rohit Kushwaha</strong></sub>
 </p>
 
-</div>
+</div> -->
+
+
+
